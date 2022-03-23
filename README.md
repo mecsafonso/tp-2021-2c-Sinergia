@@ -1,6 +1,6 @@
 # tp-2021-2c-Sinergia
 
-***Atención***: El orden de los factores altera el producto, no se puede correr un Kernel sin correr Swamp y Memoria primero, inicializar en el orden siguiente:
+***Atención***: El orden de los factores altera el producto, no se puede correr Kernel sin correr Swamp y Memoria primero, inicializar en el orden siguiente:
 
 Iniciar Swamp
 ```
